@@ -2,7 +2,7 @@
 \alias{HgCl}
 \docType{data}
 \title{Body weights after 65 and 105 weeks in a longterm
-study}}
+study}
 \description{Body weight data}
 \usage{data("HgCl")}
 \format{
